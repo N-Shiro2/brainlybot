@@ -169,7 +169,7 @@ client.on('message', message => {
         pesan = ``
         pesan += `*Bot Brainly Whatsapp 🤖 👩‍💻*\n*Menu*\n\n💡Brainly Search\n/brainly <pertanyaan> -<jumlah>\n*/brainly rumus mtk -10*`
         pesan += `\n\n\n💡Kalkulator\n_hanya bisa kali(*) bagi(/) tambah(+) kurang(-)_\n/math <angka>\n*/math 100+70/2*`
-        pesan += "\n\n*Created by @virdiosam*"
+        pesan += "\n\n*Created by @Nfal*"
         Virdina.replyMessage(pesan)
     })
 })
